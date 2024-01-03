@@ -1,6 +1,7 @@
 # To run this in Codespace with hot refresh
 
-- (Install rust)[https://www.rust-lang.org/tools/install]
+- (Install rust)[https://www.rust-lang.org/tools/install], run curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
+- new terminal
 - run cargo install mdbook
 - run mdbook serve
 

@@ -15,7 +15,7 @@ install:
 	cargo install mdbook
 
 
-s serve:
+serve:
 	mdbook serve
 
 
