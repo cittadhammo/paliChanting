@@ -18,7 +18,6 @@ By Cittadhammo Bhikkhu
 
 </div>
 
-<p align="center"><img src="images/chart1.png" height="500"></p>
 
 
 

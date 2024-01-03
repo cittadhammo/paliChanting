@@ -1,4 +1,22 @@
 # Summary
 
 - [Simple Pali Chanting Guide](README.md)
-- [Chapter 1](chapter-1.md)
+- [Pali Alphabet](alphabet/alphabet.md)
+    - [Order](alphabet/order.md)
+    - [Prononciation](alphabet/prononciation.md)
+        - [Exercise 1](alphabet/exercise1.md)
+    - [Stopped Syllable](alphabet/stoppedSyllable.md)
+- [Parsing](parsing/parsing.md)
+    - [Intro](rythm/intro.md)
+        - [Exercise 2](parsing/exercise2.md)
+        - [Exercise 3](parsing/exercise3.md)
+- [Rythm](rythm/rythm.md)
+    - [Intro](rythm/intro.md)
+        - [Exercise 4](rythm/exercise4.md)
+    - [Stresses](rythm/stresses.md)
+    - [Hyphens](rythm/hyphens.md)
+        - [Exercise 5](rythm/exercise5.md)
+        - [Exercise 6](rythm/exercise6.md)
+- [Pali Meter](meter/meter.md)
+    - [test](meter/test.ms)
+
