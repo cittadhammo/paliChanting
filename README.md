@@ -1,3 +1,10 @@
+# To run this in Codespace with hot refresh
+
+- (Install rust)[https://www.rust-lang.org/tools/install]
+- run cargo install mdbook
+- run mdbook serve
+
+
 # mdBook Quickstart 🦀 📙
 > Starter template for an online book or docs site made with Markdown and mdBook
 
