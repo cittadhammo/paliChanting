@@ -1,7 +1,24 @@
-# mdBook Quickstart
+<br>
 
-Welcome to the demo site for mkBook Quickstart.
+<div align="center">
 
-View source:
+Alphabet・Parsing・Rhythm・Metres・Style</p>
 
-[![MichaelCurrin - mdbook-quickstart](https://img.shields.io/static/v1?label=MichaelCurrin&message=mdbook-quickstart&color=blue&logo=github)](https://github.com/MichaelCurrin/mdbook-quickstart)
+<br>
+
+Available on:
+
+[www.palichanting.github.io](www.palichanting.github.io)
+
+<br>
+
+By Cittadhammo Bhikkhu
+
+<br>
+
+</div>
+
+<p align="center"><img src="images/chart1.png" height="500"></p>
+
+
+
